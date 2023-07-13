@@ -3,9 +3,9 @@ This repository provides code to recover full-length genomes from partial de nov
 
 ## Usage
 
-    1. Change the appropriate paths in the numbered shell scripts to the ViCAT output directory structure.
-    2. Run the scripts in the order they are numbered.
-    3. Change the scripts in the script directory to have the updated information.
-    4. Change the run_partial_correct.sh to the approptiate script in the script directory.
-    5. Run the code.
+1. Change the appropriate paths in the numbered shell scripts to the ViCAT output directory structure.
+2. Run the scripts in the order they are numbered.
+3. Change the scripts in the script directory to have the updated information.
+4. Change the run_partial_correct.sh to the approptiate script in the script directory.
+5. Run the code.
     
